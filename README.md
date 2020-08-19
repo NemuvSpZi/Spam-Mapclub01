@@ -3,7 +3,7 @@
 
 # Cara Menginstall •>
   
-  $ pkg update && pkg upgrade 
+   $ pkg update && pkg upgrade 
    $ pkg install git
    $ git clone https://github.com/NemuvSpZi/Spam-Mapclub01
    $ cd Spam-Mapclub01
